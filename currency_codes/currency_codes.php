@@ -1,14 +1,5 @@
 <?php
-/**
- * Export to PHP Array plugin for PHPMyAdmin
- * @version 4.7.0
- */
 
-/**
- * Database `myprojects_currencyconvertor`
- */
-
-/* `myprojects_currencyconvertor`.`currency_codes` */
 $currency_codes = array(
   array('currency_code_id' => '1','currency_code' => 'Field1'),
   array('currency_code_id' => '2','currency_code' => 'AED'),
